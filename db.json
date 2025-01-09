@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Nintendo Gameboy",
+            "description": "",
+            "category": "",
+            "price": "10",
+            "image": "https://images.unsplash.com/photo-1703319952271-a72d8995c336?q=80&w=1335&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 2,
+            "title": "Nintendo Game Controller",
+            "description": "",
+            "category": "",
+            "price": "10",
+            "image": "https://images.unsplash.com/photo-1703868671298-b1d776d486f7?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 3,
+            "title": "Xbox",
+            "description": "",
+            "category": "",
+            "price": "10",
+            "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 4,
+            "title": "Sony headphones",
+            "description": "",
+            "category": "",
+            "price": "10",
+            "image": "https://images.unsplash.com/photo-1577174881658-0f30ed549adc?q=80&w=1320&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 5,
+            "title": "Nintendo Switch",
+            "description": "",
+            "category": "",
+            "price": "10",
+            "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 6,
+            "title": "Nintendo Switch",
+            "description": "",
+            "category": "",
+            "price": "10",
+            "image": "https://images.unsplash.com/photo-1585857188823-77658a70979a?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        }
+    ]
+}
